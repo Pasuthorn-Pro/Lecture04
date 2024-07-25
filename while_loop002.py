@@ -7,5 +7,5 @@ while keep_going == "y":
 
     print(f"The commission is ${commission:.2f}")
 
-    keep_going = input('Do you want to calculate another' 
+    keep_going = input('Do you want to calculate another' + \
                        ' commission (Enter y for yes): ')
