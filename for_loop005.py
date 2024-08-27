@@ -6,4 +6,4 @@ for j in range(3,10):
     print(j)
 print("\n")
 for k in range(1,11,2):
-    print(k)    
+    print(k)
