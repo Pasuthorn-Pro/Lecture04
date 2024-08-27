@@ -6,5 +6,5 @@ while keep_going == "y":
 
     print(f"The retail price is ${retail:.2f}")
 
-    keep_going = input('Do you have another' /+
+    keep_going = input('Do you have another' + \
                        ' item (Enter y for yes): ')
