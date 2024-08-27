@@ -1,9 +1,9 @@
 colum = int(input("Enter number of columns: "))
 count = 0
 
-for i in range(1, 101):
+for num in range(1, 101):
 
-    print(i, end=' ')
+    print(num, end=' ')
 
     count += 1
 
