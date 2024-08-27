@@ -1,3 +1,4 @@
+#for i in range(start, stop, step)
 for i in range(5):
     print(i)
 print("\n")
